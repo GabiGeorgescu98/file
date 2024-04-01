@@ -1,18 +1,7 @@
-[
-    {
-        "label": "Prima oPTIUNE",
-        "value": "Value 1"
-    },
-    {
-        "label": "A doua optiune",
-        "value": "Value 2"
-    },
-    {
-        "label": "A treia optiune",
-        "value": "Value 3"
-    },
-    {
-        "label": "A 4a optiune",
-        "value": "Value 4"
-    }
+[{"id":"e21ac567-4449-4e08-a328-bf907271ab24",
+"label":"column1111",
+"key":"column1"},
+{"id":"e1d30466-b969-432a-b748-9a986723bf51",
+"label":"column2222222",
+"key":"column2"}
 ]
